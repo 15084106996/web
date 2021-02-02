@@ -2,43 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e07b9f2a-f519-4878-9c94-2cd4e4dd364a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20210129/01.广告随机时间切换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/02.节点操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/03.parentNode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/04.offsetParent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/05.追加子节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/06.事件补充.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/07.失去焦点练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/08.Bom操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/09.全选操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/10.eval函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/11.event对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/12.div随鼠标移动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/13.自定义右键菜单.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/14.拖拽div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/15.事件冒泡.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/16.事件冒泡应用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/17.父级塌陷.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/18.键盘事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/19.模拟发送评论.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/image/adver16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/js/myjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210129/js/myjs2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,20 +26,20 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/20210129" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\webworkplace\20210129" />
-      <recent name="D:\webworkplace\20210126\image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webworkplace\20210201" />
       <recent name="D:\webworkplace\20210129\image" />
       <recent name="D:\webworkplace\20210129\js" />
       <recent name="D:\webworkplace\20210127\image" />
       <recent name="D:\webworkplace\20210127\js" />
-      <recent name="D:\webworkplace\20210127" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webworkplace\20210129" />
+      <recent name="D:\webworkplace\20210126\image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -128,6 +91,11 @@
       <workItem from="1611622882438" duration="10261000" />
       <workItem from="1611837686070" duration="663000" />
       <workItem from="1612060488607" duration="259000" />
+      <workItem from="1612060859826" duration="4673000" />
+      <workItem from="1612141677026" duration="43000" />
+      <workItem from="1612141777444" duration="40000" />
+      <workItem from="1612141851703" duration="1998000" />
+      <workItem from="1612250300093" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1611051814776</created>
