@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e07b9f2a-f519-4878-9c94-2cd4e4dd364a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20210201/layui练习/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/01.$()选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/02.绑定事件区别.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/03.显示隐藏div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/04.内容.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/05.attr和val.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/06.背景色练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/07.属性选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/08.class操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/09.两侧传输数据.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210203/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210201/layui练习/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/20210201/layui练习/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210201/layui练习/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/20210201/layui练习/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +43,16 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\webworkplace\20210201" />
-      <recent name="D:\webworkplace\20210129\image" />
-      <recent name="D:\webworkplace\20210129\js" />
-      <recent name="D:\webworkplace\20210127\image" />
-      <recent name="D:\webworkplace\20210127\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\webworkplace\20210129" />
       <recent name="D:\webworkplace\20210126\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webworkplace\20210203\js" />
+      <recent name="D:\webworkplace\20210203" />
+      <recent name="D:\webworkplace\20210201" />
+      <recent name="D:\webworkplace\20210201\layui练习" />
+      <recent name="D:\webworkplace\20210201\layui练习\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -96,6 +109,8 @@
       <workItem from="1612141777444" duration="40000" />
       <workItem from="1612141851703" duration="1998000" />
       <workItem from="1612250300093" duration="255000" />
+      <workItem from="1612356623974" duration="178000" />
+      <workItem from="1613104348595" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1611051814776</created>

@@ -34,17 +34,20 @@
                         time: 2000, //20s后自动关闭
                     });
                 }else{
+                    let bool = true;
                     userList.forEach((item,index) => {
                         if (item.username == loginName.value && item.password == loginPass.value) {
                             // 登录成功 item
                             window.sessionStorage.setItem('userinfo',JSON.stringify(item))
-                            window.location.href = './index.html';
-                        }else{
-                            layer.msg('用户名或密码错误', {
-                                time: 2000, //20s后自动关闭
-                            });
+                            window.location.href = 'index.html';
+                            bool = false;
                         }
                     })
+                    if (bool) {
+                        layer.msg('用户名或密码错误', {
+                            time: 2000, //20s后自动关闭
+                        });
+                    }
                 }
             }
         })
